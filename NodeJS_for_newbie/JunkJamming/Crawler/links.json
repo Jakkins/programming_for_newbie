@@ -1,0 +1,21 @@
+{
+    "objs" : 
+    [
+        {
+            "link": "https://www.tomshardware.com/news" ,
+            "scrap_rules": "./ScrapRules/file1.js"
+        },
+        { 
+            "link": "https://www.hwupgrade.it/",
+            "scrap_rules": "./ScrapRules/file2.js"
+        },
+        { 
+            "link": "https://www.reddit.com/r/archlinux/",
+            "scrap_rules": "./ScrapRules/file3.js"
+        },
+        { 
+            "link": "https://www.unicam.it/bandi",
+            "scrap_rules": "./ScrapRules/file4.js"
+        }
+    ]
+}    

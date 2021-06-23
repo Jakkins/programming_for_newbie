@@ -1,0 +1,12 @@
+[
+    {
+        "url": "https://twitter.com/i/lists/1344289559153160192",
+        "timer": "3600",
+        "protocol": "Twitter"
+    },
+    {
+        "url": "https://www.reddit.com/r/cybersecurity/new.json",
+        "timer": "21600",
+        "protocol": "Reddit"
+    }
+]

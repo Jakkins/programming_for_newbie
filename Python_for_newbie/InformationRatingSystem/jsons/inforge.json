@@ -1,0 +1,27 @@
+[
+    {
+        "url": "https://www.inforge.net/forum/forums/sicurezza-informatica.434/",
+        "timer": "604800",
+        "protocol": "Inforge"
+    },
+    {
+        "url": "https://www.inforge.net/forum/forums/anonimato-e-deep-web.909/",
+        "timer": "604800",
+        "protocol": "Inforge"
+    },
+    {
+        "url": "https://www.inforge.net/forum/forums/pentesting-exploit-e-scanner.942/",
+        "timer": "604800",
+        "protocol": "Inforge"
+    },
+    {
+        "url": "https://www.inforge.net/forum/forums/wi-fi-hacking.970/",
+        "timer": "604800",
+        "protocol": "Inforge"
+    },
+    {
+        "url": "https://www.inforge.net/forum/forums/data-leaks.1562/",
+        "timer": "604800",
+        "protocol": "Inforge"
+    }
+]

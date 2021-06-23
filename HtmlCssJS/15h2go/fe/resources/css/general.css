@@ -1,0 +1,10 @@
+
+body {
+    /* reset default values */
+    margin: 0; 
+    
+    /* custom details */
+    flex-direction: column;
+    width: 648px;
+}
+

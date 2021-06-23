@@ -1,0 +1,29 @@
+
+#body_content_container {
+    position: relative;
+}
+
+#cover {
+    width: 648px;
+    height: 324px;
+}
+
+#body_content {
+    left: 33px;
+    width: 584px;
+    height: 100%;
+    background-color: white;
+    border-radius: 8px;
+    position: absolute;
+    top: 230px;
+    transition: 1s;
+}
+
+#content {
+    font-size: 8px;
+    position: absolute;
+    margin: 30px;
+    width: 290px;
+    left: 33px;
+    top: 230px;
+}

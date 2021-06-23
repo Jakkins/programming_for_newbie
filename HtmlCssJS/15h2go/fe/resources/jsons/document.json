@@ -1,0 +1,42 @@
+{
+    "_class":"document",
+    "do_objectID":"CECEC707-5931-4916-AB82-E1CA75B2CECE",
+    "assets":{
+        "_class":"assetCollection",
+        "colors":[],
+        "gradients":[],
+        "imageCollection":{
+            "_class":"imageCollection",
+            "images":{}
+        },"images":[]
+    },
+    "colorSpace":0,
+    "currentPageIndex":0,
+    "enableLayerInteraction":true,
+    "enableSliceInteraction":true,
+    "foreignSymbols":[],
+    "layerStyles":{
+        "_class":"sharedStyleContainer",
+        "objects":[]
+    },
+    "layerSymbols":{
+        "_class":"symbolContainer",
+        "objects":[]
+    },
+    "layerTextStyles":{
+        "_class":"sharedTextStyleContainer",
+        "objects":[]
+    },
+    "pages":[
+        {"_class":"MSJSONFileReference","_ref_class":"MSImmutablePage","_ref":"pages\/8C5E697E-351F-47F4-852E-DDF6348CB867"}
+    ],
+    "userInfo":{
+        "com.invisionlabs.sync":{
+            "metadata":"{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+        },
+        "com.invisionlabs.getty0":{
+            "ids":"[{\"id\":\"822081298\",\"layerId\":\"597EDD31-8FBF-4E6E-AA1A-ED0F892A136F\"},{\"id\":\"616094538\",\"layerId\":\"7AEC5492-8C70-44EE-88CD-177183A09B76\"}]"
+        }
+    }
+}
+                

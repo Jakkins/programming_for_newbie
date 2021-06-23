@@ -1,0 +1,26 @@
+
+int             4 byte 
+  MIN: -2^15
+  MAX: 2^16
+unsigned int    4 byte 2^32
+
+char <-> short
+char            1 byte
+wchar_t         x byte
+char16_t        2 byte
+char132_t       4 byte
+
+long            depend on the compiler
+long long       8 byte usually
+
+float           4 byte
+double          8 byte
+
+false = 0
+true = any other number
+
+bool            1 byte
+
+
+int * a, b;  // a is a pointer, b in an int
+int * a, *b; // all pointers

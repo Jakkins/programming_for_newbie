@@ -1,0 +1,26 @@
+
+#lateral_cards {
+    position: absolute;
+    left: 410px;
+    top: 224px
+}
+
+#lateral_cards div {
+    background-color: #f8e627;
+    width: 157px;
+    height: 210px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    overflow: hidden;
+    text-overflow: clip;
+}
+
+.card_number {
+    position: relative;
+    top: -15px;
+    left: -10px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 7em;
+    opacity: 10%;
+}

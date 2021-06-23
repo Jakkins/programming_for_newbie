@@ -1,0 +1,14 @@
+{
+    "sites" : 
+    [
+        {
+            "site": "https://www.tomshardware.com/news"
+        },
+        { 
+            "site": "https://www.hwupgrade.it/"
+        },
+        { 
+            "site": "https://www.reddit.com/r/archlinux/"
+        }
+    ]
+}    

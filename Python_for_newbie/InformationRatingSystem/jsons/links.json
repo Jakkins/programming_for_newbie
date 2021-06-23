@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://www.comune.ancona.gov.it/ankonline/category/news/",
+        "timer": "604800",
+        "protocol": "ComuneAncona"
+    },
+    {
+        "url": "https://www.comune.ancona.gov.it/ankonline/category/comune/gli-uffici/bandi-di-concorso/avvisi-selezione-personale/concorsi-e-avvisi-con-bando-aperto/",
+        "timer": "604800",
+        "protocol": "ComuneAncona"
+    },
+    {
+        "url": "https://www.comune.ancona.gov.it/ankonline/category/comune/gli-uffici/bandi-di-concorso/mobilita-esterna/avvisi-di-mobilita-con-bando-aperto/",
+        "timer": "604800",
+        "protocol": "ComuneAncona"
+    },
+    {
+        "url": "https://www.comune.ancona.gov.it/ankonline/category/comune/gli-uffici/bandi-di-concorso/concorsi-presso-altri-enti/",
+        "timer": "604800",
+        "protocol": "ComuneAncona"
+    }
+]

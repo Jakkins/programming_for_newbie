@@ -1,0 +1,4 @@
+#!/bin/bash
+
+PATHSCRIPT=${BASH_SOURCE%/*}
+bash -c "node $PATHSCRIPT/searchcore/index.js $1 $2 $3"

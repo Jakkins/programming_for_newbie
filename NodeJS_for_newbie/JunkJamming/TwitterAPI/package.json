@@ -1,0 +1,14 @@
+{
+  "name": "twitterapi",
+  "version": "1.0.0",
+  "description": "0. [Sources](#sources)\r 1. Connect to API\r    - App Auth    \r       oauth_consumer_key\r       oauth_consumer_secret\r    - User Auth, OAuth 1.0a API requests\r       oauth_token\r       oauth_token_secret\r 2. [Create Signature](https://developer.twitter.com/en/docs/authentication/oauth-1-0a/creating-a-signature)\r     - [Nonce](#nonce)\r 3. [Create Request](https://developer.twitter.com/en/docs/authentication/oauth-1-0a/authorizing-a-request)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
