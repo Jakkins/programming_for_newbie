@@ -1,0 +1,1 @@
+node %~dp0node_disksize.js %1
